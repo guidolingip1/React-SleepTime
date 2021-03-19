@@ -1,4 +1,4 @@
-<center>## Calculadora de Sono! <img src="https://media4.giphy.com/media/kIRicSBQwa23pYExQT/giphy.gif" width="50px"></center>
+## Calculadora de Sono! <img src="https://media4.giphy.com/media/kIRicSBQwa23pYExQT/giphy.gif" width="50px">
 ![alt text](https://github.com/guidolingip1/React-SleepTime/blob/master/screenshot.png)
 
 
