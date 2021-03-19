@@ -16,6 +16,4 @@ Projeto criado com o objetivo de aprender React
 
 ## Screenshots
 
-```
-[<img src="https://github.com/guidolingip1/React-SleepTime/blob/master/screenshot.png">
-```
+![alt text](https://github.com/guidolingip1/React-SleepTime/blob/master/screenshot.png)
